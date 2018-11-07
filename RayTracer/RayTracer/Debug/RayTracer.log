@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\gabriel pregger\office dateien\visual studio 2013\projects\raytracer\raytracer\source.cpp(20): warning C4305: 'argument' : truncation from 'double' to 'float'
+  RayTracer.vcxproj -> C:\Users\Gabriel Pregger\Office Dateien\Visual Studio 2013\Projects\RayTracer\Debug\RayTracer.exe
